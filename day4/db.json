@@ -1,0 +1,10 @@
+{
+  "company": [
+    { "name": "John", "category": "phap", "start": 1981, "end": 2004 },
+    { "name": "wick", "category": "anh", "start": 1980, "end": 2005 },
+    { "name": "Nam", "category": "my", "start": 1982, "end": 2006 },
+    { "name": "Son", "category": "du", "start": 1983, "end": 2007 },
+    { "name": "Binh", "category": "VN", "start": 1984, "end": 2008 },
+    { "name": "Gold", "category": "bodaonha", "start": 1985, "end": 2009 }
+  ]
+}
